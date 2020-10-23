@@ -19,7 +19,7 @@
 
 ## 📖 Sobre
 
-<p>Projeto em desenvolvimento durante o curso **Criando um App com React, TypeScript, Hooks, Context e Forms** do Balta.io</p>
+<p>Projeto em desenvolvimento durante o curso Criando um App com React, TypeScript, Hooks, Context e Forms do Balta.io</p>
 
 <p>A ideia é criar um App completo utilizando React e TypeScript, passando pelos conceitos de gestão de estado com React Context, utilizando React Hooks e React Forms, tudo na prática, direto ao ponto!</p>
 
