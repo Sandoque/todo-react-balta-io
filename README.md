@@ -29,10 +29,9 @@
 
 As seguintes tecnologias estão sendo usadas na construção do projeto:
 
-- [Uikit](https://getuikit.com/)
-- [HTML](https://www.w3schools.com/html/default.asp)
-- [Typescript](https://www.typescriptlang.org/)
 - [React](https://pt-br.reactjs.org/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Uikit](https://getuikit.com/)
 
 ---
 
