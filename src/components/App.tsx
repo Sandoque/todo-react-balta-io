@@ -2,9 +2,9 @@ import React from 'react';
 import Navbar from './Navbar';
 import TodoList from './TodoList';
 
-function App() {
+const App = () => {
   return (
-    <div>
+    <div className="uk-container">
       <Navbar></Navbar>
       <TodoList></TodoList>
 
