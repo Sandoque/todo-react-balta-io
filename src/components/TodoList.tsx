@@ -17,6 +17,12 @@ const Todolist = () => {
         </tr>
       </thead>
       <tbody>
+        {
+          todos?.map(
+            todo => (<div key={todo.id}>{todo.title}</div>)
+          )
+
+        }
 
       </tbody>
 
