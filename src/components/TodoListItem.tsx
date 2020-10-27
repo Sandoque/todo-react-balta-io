@@ -2,7 +2,7 @@ import React from 'react';
 
 const TodolistItem = () => {
   return (
-    <tr className="uk-animation-slide-bottom-medium">
+    <tr className="uk-animation-slide-bottom-medium" >
       <td className="uk-width-auto">
         <label>
           <input className="uk-checkbox" type="checkbox" />
