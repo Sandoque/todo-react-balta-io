@@ -14,13 +14,13 @@ const Todolist = () => {
         <tr>
           <th>#</th>
           <th>Tarefa</th>
-          <th></th>
+          <th>Apagar</th>
         </tr>
       </thead>
       <tbody>
         {
           todos?.map(
-            todo => (<TodolistItem key={todo.id}></TodolistItem>)
+            todo => (<TodolistItem key={todo.id} todo={todo}></TodolistItem>)
           )
 
         }
