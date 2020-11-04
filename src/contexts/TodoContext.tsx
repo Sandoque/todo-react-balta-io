@@ -18,13 +18,13 @@ const TodoProvider = (props: any) => {
     { id: 2, title: 'ir a barraca do bolo', done: false }
   ]
   const addTodo = (title: string) => {
-    console.log('Adicionou' + title);
+    console.log('Adicionou ' + title);
   }
   const removeTodo = (todo: Todo) => {
-    console.log('Removeu' + todo.title)
+    console.log('Removeu ' + todo.title)
   }
   const toggle = (todo: Todo) => {
-    console.log('Alterou' + todo.title)
+    console.log('Alterou ' + todo.title)
   }
 
   return (
